@@ -1,7 +1,12 @@
+
+Addition = (A,B) => { return A+B; }
+
+/*
 function Addition(A,B)
 {
     return A+B;
 }
+*/
 
 function main()
 {
